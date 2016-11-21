@@ -1,7 +1,7 @@
 {
-  "name": "Modern Frontend Development Environment",
+  "name": "mode",
   "version": "1.0.0",
-  "description": "",
+  "description": "Modern Frontend Development Environment",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
